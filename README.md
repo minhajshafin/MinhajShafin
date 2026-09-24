@@ -19,14 +19,6 @@
 
 </div>
 
-
-<div align="center">
-
-<h2><samp>STACK</samp></h2>
-<sup>Tools I reach for and the kind of problems I enjoy</sup>
-
-</div>
-
 <table width="100%">
   <tr>
     <td width="34%" valign="top" align="center">
