@@ -4,16 +4,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MinhajShafin/MinhajShafin/output/pacman-contribution-graph.svg">
 </picture>
 
+
 <a href="https://minhajshafin.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="assets/name.svg" alt="Sup! I’m Minhaj Shafin" />
 </a>
 
 <div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=39D353&center=true&vCenter=true&width=560&lines=I+build+small%2C+clean+things+(that+usually+behave).;I+like+tools+that+get+out+of+the+way.;If+it+breaks%2C+I+write+a+test+(eventually)."
-  alt="Typing intro"
-/>
 
 <pre>
 ┌────────────────────────────── status ──────────────────────────────┐
