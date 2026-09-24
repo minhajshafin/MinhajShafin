@@ -23,35 +23,6 @@
 
 </div>
 
-<div align="center">
-<h2><samp>NOW</samp></h2>
-<sup>What I'm focused on right now</sup>
-</div>
-
-<div align="center">
-<table width="100%">
-  <tr>
-    <td valign="top" align="center">
-      <h3><samp>BUILDING</samp></h3>
-      <p><sub>Shipping, iterating, and keeping diffs pleasantly small.</sub></p>
-      <p>
-        <kbd>shipping</kbd>
-        <kbd>iteration</kbd>
-        <kbd>small diffs</kbd>
-      </p>
-    </td>
-    <td valign="top" align="center">
-      <h3><samp>LEARNING</samp></h3>
-      <p><sub>Something new every week (and re-learning it on Monday).</sub></p>
-      <p>
-        <kbd>systems</kbd>
-        <kbd>tooling</kbd>
-        <kbd>craft</kbd>
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
 
 <div align="center">
 
