@@ -9,18 +9,22 @@
 </a>
 
 <div align="center">
+
 <pre>
 ┌────────────────────────────── status ──────────────────────────────┐
 │ uptime: caffeinated  |  mode: shipping  |  bugs: in negotiations   │
 └────────────────────────────────────────────────────────────────────┘
 </pre>
+
 </div>
 
-<table width="100%">
+<div align="center">
+
+<table align="center" width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
       <h3><samp>LANGUAGES</samp></h3>
-      <table>
+      <table align="center">
         <tr>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" width="28" alt="C" title="C" /></td>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" alt="C++" title="C++" /></td>
@@ -35,7 +39,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <h3><samp>WEB</samp></h3>
-      <table>
+      <table align="center">
         <tr>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="Next.js" title="Next.js" /></td>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" alt="React" title="React" /></td>
@@ -50,7 +54,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <h3><samp>SYSTEMS</samp></h3>
-      <table>
+      <table align="center">
         <tr>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" alt="Linux" title="Linux" /></td>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" alt="Docker" title="Docker" /></td>
@@ -65,5 +69,7 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 <h6><samp>PS: If this README looks calm, it's because the chaos is neatly organized.</samp></h6>
