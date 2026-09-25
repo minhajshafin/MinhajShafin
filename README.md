@@ -12,7 +12,8 @@
 
 <pre>
 ┌────────────────────────────── status ──────────────────────────────┐
-│ uptime: caffeinated  |  mode: shipping  |  bugs: in negotiations   │
+│  uptime: caffeinated  |  mode: shipping  |  bugs: in negotiations  │
+│               life: ██████▒▒░░░░░░░░░░░░░░░░░░ 25%                 │
 └────────────────────────────────────────────────────────────────────┘
 </pre>
 
