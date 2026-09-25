@@ -20,55 +20,27 @@
 
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td width="282" valign="top" align="center">
-      <h3><samp>LANGUAGES</samp></h3>
-      <table align="center">
-        <tr>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" width="28" alt="C" title="C" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" alt="C++" title="C++" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" alt="Python" title="Python" /></td>
-        </tr>
-        <tr>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="28" alt="JavaScript" title="JavaScript" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="28" alt="TypeScript" title="TypeScript" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" width="28" alt="Bash" title="Bash" /></td>
-        </tr>
-      </table>
-    </td>
-    <td width="282" valign="top" align="center">
-      <h3><samp>WEB</samp></h3>
-      <table align="center">
-        <tr>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="Next.js" title="Next.js" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" alt="React" title="React" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="Tailwind CSS" title="Tailwind CSS" /></td>
-        </tr>
-        <tr>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="28" alt="Node.js" title="Node.js" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="28" width="28" alt="Supabase" title="Supabase" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" alt="MongoDB" title="MongoDB" /></td>
-        </tr>
-      </table>
-    </td>
-    <td width="282" valign="top" align="center">
-      <h3><samp>SYSTEMS</samp></h3>
-      <table align="center">
-        <tr>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" alt="Linux" title="Linux" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" alt="Docker" title="Docker" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="28" width="28" alt="Kubernetes" title="Kubernetes" /></td>
-        </tr>
-        <tr>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" alt="Git" title="Git" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" width="28" alt="PostgreSQL" title="PostgreSQL" /></td>
-          <td width="68" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="28" width="28" alt="Vercel" title="Vercel" /></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<h3><samp>TECH STACK</samp></h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" width="32" alt="C" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" width="32" alt="C++" title="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" width="32" alt="Python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" width="32" alt="TypeScript" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" alt="JavaScript" title="JavaScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" width="32" alt="Next.js" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" alt="React" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" width="32" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" width="32" alt="Node.js" title="Node.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32" width="32" alt="Supabase" title="Supabase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" width="32" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" width="32" alt="FastAPI" title="FastAPI" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" width="32" alt="Docker" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" width="32" alt="Linux" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" width="32" alt="Git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="32" width="32" alt="Vercel" title="Vercel" />
 
 </div>
 
